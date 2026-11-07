@@ -1,0 +1,7 @@
+[project]
+name = "turath-py-mujam-lisan-lookup"
+version = "1.0.0"
+description = "Rhyme-Order (Qafiyah: Bab-Fasl) Classical Arabic Lexicon Resolver (محرك البحث في المعاجم التراثية: لسان العرب والقاموس)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
